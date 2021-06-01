@@ -26,9 +26,9 @@ gҽƮ Ʈo kŋoʬ ɱe fɪɽsƮ
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MohsinTheLegend&repo=Random-V2&theme=chartreuse-dark" />
 <p align="center">
-<a href="https://github.com/MohsinTheLegend&repo=Random-V2"><img title="Random-V2" src="https://github-readme-stats.vercel.app/api/pin/?username=MohsinTheLegend&repo=Random-V2&theme=vision-friendly-dark"></a>
+<a href="https://github.com/MohsinTheLegend&repo=Random-V2"><img title="Random-V2" src="https://github-readme-stats.vercel.app/api/pin/?username=MohsinTheLegend&repo=MOHSIN-TOOL&theme=vision-friendly-dark"></a>
 <a href="https://github.com/MohsinTheLegend&repo=Mohsin-V3"><img title=Mohsin-V3"" src="https://github-readme-stats.vercel.app/api/pin/?username=MohsinTheLegend&repo=ALI-V2&theme=dark"></a>
-<a href="https://github.com/MohsinTheLegend&repo=MOHSIN-TOOL"><img title="MOHSIN-TOOL" src="https://github-readme-stats.vercel.app/api/pin/?username=MohsinTheLegend&repo=ALI-V2&theme=vision-friendly-dark"></a>
-<a href="https://github.com/MohsinTheLegend&repo=Random-V2"><img title="RANDOM-V2" src="https://github-readme-stats.vercel.app/api/pin/?username=MohsinTheLegend&repo=Random-V2&theme=tokyonight"></a>
+<a href="https://github.com/MohsinTheLegend&repo=MOHSIN-TOOL"><img title="MOHSIN-TOOL" src="https://github-readme-stats.vercel.app/api/pin/?username=MohsinTheLegend&repo=Mohsin-V3&theme=vision-friendly-dark"></a>
+<a href="https://github.com/MohsinTheLegend&repo=Random-V2"><img title="RANDOM-V2" src="https://github-readme-stats.vercel.app/api/pin/?username=MohsinTheLegend&repo=Without-Pak&theme=tokyonight"></a>
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohsinthelegend" alt="mohsinthelegend" /></a> </p>

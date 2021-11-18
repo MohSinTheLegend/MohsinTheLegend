@@ -23,6 +23,7 @@ gҽƮ Ʈo kŋoʬ ɱe fɪɽsƮ
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233729F7&lines=HATERX+MAKES+MEH+FAMOUS+MOHSIN+THE+BRAND)](https://git.io/typing-svg)
  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cool&color=%239766FF&center=true&vCenter=true&lines=MOHSIN+ALI+THE+BRAND+!;HATERX+MAKES+MEH+FAMOUS)](https://git.io/typing-svg)
 
  
   ![giphy](https://user-images.githubusercontent.com/77507222/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)

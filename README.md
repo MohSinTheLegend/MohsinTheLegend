@@ -21,7 +21,8 @@ gҽƮ Ʈo kŋoʬ ɱe fɪɽsƮ
 <a href="https://wa.me/03063112***?text=Asalamualaikum+bang"><img src="https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white">
 </p>
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233729F7&lines=HATERX+MAKES+MEH+FAMOUS+MOHSIN+THE+BRAND)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cool&color=%23F7671C&center=true&vCenter=true&lines=Em+FindinG+SOMETHING+IN+MY+FOOT+!;OH+iTx+YOUR+ATTITUDE+%3A))](https://git.io/typing-svg)
+ 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cool&color=%239766FF&center=true&vCenter=true&lines=MOHSIN+ALI+THE+BRAND+!;HATERX+MAKES+MEH+FAMOUS)](https://git.io/typing-svg)
 
